@@ -33,7 +33,7 @@ function dita($datax){
    print("    <title>Puntata di ". $giorniFull[$sett] ." " . $giorno . " " . $mesiFull[$mese] . " " . $anno . " </title>\n");
    print("    <itunes:summary>Puntata intera di ". $giorniFull[$sett] ."</itunes:summary>\n");
    print("    <description>Puntata intera di ". $giorniFull[$sett] ." " . $giorno . " " . $mesiFull[$mese] . " " . $anno . "</description>\n");
-   print("    <link>http://zoo105.atwebpages.com/info.html</link>\n");
+   print("    <link>http://zoo105.atwebpages.com/index.html</link>\n");
    print("    <enclosure url=\"". $urlxx ."\" type=\"audio/mpeg\" length=\"1024\"></enclosure>\n");
    print("    <pubDate>". $pubDate ."</pubDate>\n");
    print("    <itunes:author>Zoo di 105</itunes:author>\n");
@@ -66,7 +66,7 @@ print("    <itunes:name>Marco Mallozi</itunes:name>\n");
 print("    <itunes:email>ihrkola@gmail.com</itunes:email>\n");
 print("</itunes:owner>\n");
 print("<itunes:explicit>no</itunes:explicit>\n");
-print("<itunes:image href=\"https://i.ytimg.com/vi/-jrcvdh7JBo/maxresdefault.jpg\" />\n");
+print("<itunes:image href=\"https://raw.githubusercontent.com/eltonkola/podcast_zoo_105/master/zoo_cover.jpg\" />\n");
 print("<itunes:category text=\"Comedy\"></itunes:category>\n");
 
 $limit = isset($_GET['limit']) ? $_GET['limit'] : 1;
