@@ -69,7 +69,7 @@ print("<itunes:explicit>no</itunes:explicit>\n");
 print("<itunes:image href=\"https://raw.githubusercontent.com/eltonkola/podcast_zoo_105/master/zoo_cover.jpg\" />\n");
 print("<itunes:category text=\"Comedy\"></itunes:category>\n");
 
-$limit = isset($_GET['limit']) ? $_GET['limit'] : 1;
+$limit = isset($_GET['limit']) ? $_GET['limit'] : 30;
 for($i=0; $i<=$limit; $i++){
         dita(date(strtotime("-$i day")));
 }
