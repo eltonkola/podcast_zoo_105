@@ -13,12 +13,12 @@ function dita($datax){
   $mese2 = $mese;
   $giorno2 = $giorno;
 
-  if( strlen($mese) == 1 ) {
+  if( strlen($mese) == 1 && !startsWith($mese, "0")) {
     $mese2 = "0". $mese2;
   }
 
   
-  if( strlen($giorno) == 2 ) {
+  if( strlen($giorno) == 2 && startsWith($giorno, "0") ) {
     $giorno = str_replace("0", "", $giorno);
   }
 
@@ -44,6 +44,11 @@ function dita($datax){
 
   }
   
+}
+
+function startsWith ($string, $startString) { 
+    $len = strlen($startString); 
+    return (substr($string, 0, $len) === $startString); 
 }
 
 function reformatDate($date, $from_format = 'w-d-n-Y', $to_format = 'D, d M Y H:i:s T') {
