@@ -21,7 +21,9 @@ jobs:
           distribution: 'temurin' # See 'Supported distributions' for available options
           java-version: '11'
       - name: Build project
-        run: zoocast/gradlew assemble
+        run: | 
+          cd zoocast
+          ./gradlew assemble
       - name: Generate podcast
         run: java -jar zoocast/build/libs/zooCast-1.0-SNAPSHOT.jar
       - name: Publish podcast
