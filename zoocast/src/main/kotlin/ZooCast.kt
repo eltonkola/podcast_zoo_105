@@ -31,7 +31,7 @@ fun main(){
 //            val isSaturday = it.dayOfWeek == DayOfWeek.SATURDAY
 //            val isSunday = it.dayOfWeek == DayOfWeek.SUNDAY
 //            println("check if $it isSaturday: $isSaturday - isSunday: $isSunday")
-            it.dayOfWeek != DayOfWeek.SATURDAY && it.dayOfWeek == DayOfWeek.SUNDAY
+            it.dayOfWeek != DayOfWeek.SATURDAY && it.dayOfWeek != DayOfWeek.SUNDAY
         }
 
     val episodes = days
