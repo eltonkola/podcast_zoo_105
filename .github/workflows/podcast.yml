@@ -27,4 +27,14 @@ jobs:
       - name: Generate podcast
         run: java -jar zoocast/build/libs/zooCast-1.0-SNAPSHOT.jar
       - name: Publish podcast
-        run: echo Todo later
+        run: |
+            TODAYS_DATE=$(date +%Y-%m-%d)
+            echo "Remove olf podcast"
+            rm -f docs/zoo.xml
+            cp zoocast/build/libs/zoo.xml docs/zoo.xml
+            git add .
+            git commit -m "update zoo cast for $TODAYS_DATE"
+            echo '---git push it ----'
+            git push
+            echo Pushed the chnages!
+          
