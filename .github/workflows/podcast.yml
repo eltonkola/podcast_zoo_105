@@ -31,7 +31,7 @@ jobs:
             git config --global user.email "eltonkola@gmail.com"
             git config --global user.name "Elton Bot"
             TODAYS_DATE=$(date +%Y-%m-%d)
-            echo "Remove olf podcast"
+            echo "Remove old podcast"
             rm -f docs/zoo.xml
             cp zoo.xml docs/zoo.xml
             rm -f zoo.xml
