@@ -2,24 +2,24 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>Lo Zoo di 105 - Unofficial</title>
-<link>http://zoo105.atwebpages.com/info.html</link>
+<link>https://eltonkola.github.io/podcast_zoo_105/</link>
 <language>it</language>
 <itunes:subtitle>Le puntate intere dello zoo di 105</itunes:subtitle>
 <itunes:author>misterKola</itunes:author>
-<itunes:summary>Podcast dello zo di 105 - Unofficial</itunes:summary>
-<description>Podcast dello zo di 105 - con le punate inetre.</description>
+<itunes:summary>Podcast dello zoo di 105 - Unofficial</itunes:summary>
+<description>Podcast dello zoo di 105 - con le puntate intere.</description>
 <itunes:owner>
-    <itunes:name>Marco Mallozi</itunes:name>
-    <itunes:email>ihrkola@gmail.com</itunes:email>
+    <itunes:name>Marco Mazzoli</itunes:name>
+    <itunes:email>eltonkola@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://raw.githubusercontent.com/eltonkola/podcast_zoo_105/master/zoo_cover.jpg" />
+<itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
     <title>Puntata di venerdì 17 settembre 2021 </title>
     <itunes:summary>Puntata intera di venerdì 17 </itunes:summary>
     <description>Puntata di venerdì 17 settembre 2021</description>
-    <link>http://zoo105.atwebpages.com/index.html</link>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
     <enclosure url="https://podcast.mediaset.net/repliche//2021/9/17/ven_17092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Fri, 17 Sep 2021 16:00:00 +0200</pubDate>
     <itunes:author>Zoo di 105</itunes:author>
@@ -31,7 +31,7 @@
     <title>Puntata di giovedì 16 settembre 2021 </title>
     <itunes:summary>Puntata intera di giovedì 16 </itunes:summary>
     <description>Puntata di giovedì 16 settembre 2021</description>
-    <link>http://zoo105.atwebpages.com/index.html</link>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
     <enclosure url="https://podcast.mediaset.net/repliche//2021/9/16/gio_16092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Thu, 16 Sep 2021 16:00:00 +0200</pubDate>
     <itunes:author>Zoo di 105</itunes:author>
@@ -43,7 +43,7 @@
     <title>Puntata di mercoledì 15 settembre 2021 </title>
     <itunes:summary>Puntata intera di mercoledì 15 </itunes:summary>
     <description>Puntata di mercoledì 15 settembre 2021</description>
-    <link>http://zoo105.atwebpages.com/index.html</link>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
     <enclosure url="https://podcast.mediaset.net/repliche//2021/9/15/mer_15092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Wed, 15 Sep 2021 16:00:00 +0200</pubDate>
     <itunes:author>Zoo di 105</itunes:author>
@@ -55,7 +55,7 @@
     <title>Puntata di martedì 14 settembre 2021 </title>
     <itunes:summary>Puntata intera di martedì 14 </itunes:summary>
     <description>Puntata di martedì 14 settembre 2021</description>
-    <link>http://zoo105.atwebpages.com/index.html</link>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
     <enclosure url="https://podcast.mediaset.net/repliche//2021/9/14/mar_14092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Tue, 14 Sep 2021 16:00:00 +0200</pubDate>
     <itunes:author>Zoo di 105</itunes:author>
@@ -67,7 +67,7 @@
     <title>Puntata di lunedì 13 settembre 2021 </title>
     <itunes:summary>Puntata intera di lunedì 13 </itunes:summary>
     <description>Puntata di lunedì 13 settembre 2021</description>
-    <link>http://zoo105.atwebpages.com/index.html</link>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
     <enclosure url="https://podcast.mediaset.net/repliche//2021/9/13/lun_13092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Mon, 13 Sep 2021 16:00:00 +0200</pubDate>
     <itunes:author>Zoo di 105</itunes:author>
