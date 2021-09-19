@@ -1,6 +1,6 @@
 # Podcast Zoo 105 - unofficial
 
-![Alt text](zoo_cover.jpg?raw=true "Lo Zoo Di 105")
+![Alt text](docs/zoo_cover.jpg?raw=true "Lo Zoo Di 105")
 
 
 This is a simple project that will generate a possible working feed of the zoo 105 radio show. 
