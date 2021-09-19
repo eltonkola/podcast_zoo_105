@@ -28,7 +28,10 @@ fun main(){
         .reversed()
             //filter weekends, there are no episodes on weekends
         .filter {
-            it.dayOfWeek != DayOfWeek.SATURDAY || it.dayOfWeek == DayOfWeek.SUNDAY;
+//            val isSaturday = it.dayOfWeek == DayOfWeek.SATURDAY
+//            val isSunday = it.dayOfWeek == DayOfWeek.SUNDAY
+//            println("check if $it isSaturday: $isSaturday - isSunday: $isSunday")
+            it.dayOfWeek != DayOfWeek.SATURDAY && it.dayOfWeek == DayOfWeek.SUNDAY
         }
 
     val episodes = days
@@ -56,7 +59,7 @@ fun main(){
 }
 
 private fun getEpisode(date: LocalDateTime) : Episode {
-    println("getEpisode: $date")
+
     val formatter = DateTimeFormatter.ofPattern("EEE, dd MMM yyyy HH:mm:ss Z", Locale.US)
 
     val episodeDate  = date.atZone(ZoneId.of("Europe/Paris")).format(formatter)
@@ -64,6 +67,8 @@ private fun getEpisode(date: LocalDateTime) : Episode {
     val giornoShort = date.dayOfWeek.getDisplayName(TextStyle.SHORT, Locale.ITALIAN)
     val meseFull = date.month.getDisplayName(TextStyle.FULL, Locale.ITALIAN)
     val giornoFull = date.dayOfWeek.getDisplayName(TextStyle.FULL, Locale.ITALIAN)
+
+    println("getEpisode: $date - $giornoFull")
 
     val streamingUrl  =  "https://podcast.mediaset.net/repliche//${date.year}/${date.monthValue}/${date.dayOfMonth}/${giornoShort}_${date.dayOfMonth.withZero()}${date.monthValue.withZero()}${date.year}_zoo.mp3";
     return Episode(

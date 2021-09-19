@@ -1,3 +1,4 @@
 /zoocast/build/
 /zoocast/.gradle/
+/zoocast/zoo.xml
 .gradle/
