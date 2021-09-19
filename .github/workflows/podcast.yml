@@ -28,6 +28,8 @@ jobs:
         run: java -jar zoocast/build/libs/zooCast-1.0-SNAPSHOT.jar
       - name: Publish podcast
         run: |
+            git config --global user.email "eltonkola@gmail.com"
+            git config --global user.name "Elton Bot"
             TODAYS_DATE=$(date +%Y-%m-%d)
             echo "Remove olf podcast"
             rm -f docs/zoo.xml
