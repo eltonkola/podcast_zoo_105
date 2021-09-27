@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di lunedì 27 settembre 2021 </title>
+    <itunes:summary>Puntata intera di lunedì 27 </itunes:summary>
+    <description>Puntata di lunedì 27 settembre 2021</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2021/9/27/lun_27092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 27 Sep 2021 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>SEPTEMBER_27_2021</guid>
+</item>
+<item>
     <title>Puntata di venerdì 24 settembre 2021 </title>
     <itunes:summary>Puntata intera di venerdì 24 </itunes:summary>
     <description>Puntata di venerdì 24 settembre 2021</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>SEPTEMBER_21_2021</guid>
-</item>
-<item>
-    <title>Puntata di lunedì 20 settembre 2021 </title>
-    <itunes:summary>Puntata intera di lunedì 20 </itunes:summary>
-    <description>Puntata di lunedì 20 settembre 2021</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2021/9/20/lun_20092021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Mon, 20 Sep 2021 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>SEPTEMBER_20_2021</guid>
 </item>
 </channel>
 
