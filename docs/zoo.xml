@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di mercoledì 3 novembre 2021 </title>
+    <itunes:summary>Puntata intera di mercoledì 3 </itunes:summary>
+    <description>Puntata di mercoledì 3 novembre 2021</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2021/11/3/mer_03112021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 03 Nov 2021 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>NOVEMBER_3_2021</guid>
+</item>
+<item>
     <title>Puntata di martedì 2 novembre 2021 </title>
     <itunes:summary>Puntata intera di martedì 2 </itunes:summary>
     <description>Puntata di martedì 2 novembre 2021</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>OCTOBER_28_2021</guid>
-</item>
-<item>
-    <title>Puntata di mercoledì 27 ottobre 2021 </title>
-    <itunes:summary>Puntata intera di mercoledì 27 </itunes:summary>
-    <description>Puntata di mercoledì 27 ottobre 2021</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2021/10/27/mer_27102021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Wed, 27 Oct 2021 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>OCTOBER_27_2021</guid>
 </item>
 </channel>
 
