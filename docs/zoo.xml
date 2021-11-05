@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di venerdì 5 novembre 2021 </title>
+    <itunes:summary>Puntata intera di venerdì 5 </itunes:summary>
+    <description>Puntata di venerdì 5 novembre 2021</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2021/11/5/ven_05112021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 05 Nov 2021 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>NOVEMBER_5_2021</guid>
+</item>
+<item>
     <title>Puntata di giovedì 4 novembre 2021 </title>
     <itunes:summary>Puntata intera di giovedì 4 </itunes:summary>
     <description>Puntata di giovedì 4 novembre 2021</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>NOVEMBER_1_2021</guid>
-</item>
-<item>
-    <title>Puntata di venerdì 29 ottobre 2021 </title>
-    <itunes:summary>Puntata intera di venerdì 29 </itunes:summary>
-    <description>Puntata di venerdì 29 ottobre 2021</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2021/10/29/ven_29102021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Fri, 29 Oct 2021 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>OCTOBER_29_2021</guid>
 </item>
 </channel>
 
