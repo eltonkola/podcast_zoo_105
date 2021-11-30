@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di martedì 30 novembre 2021 </title>
+    <itunes:summary>Puntata intera di martedì 30 </itunes:summary>
+    <description>Puntata di martedì 30 novembre 2021</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2021/11/30/mar_30112021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 30 Nov 2021 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>NOVEMBER_30_2021</guid>
+</item>
+<item>
     <title>Puntata di lunedì 29 novembre 2021 </title>
     <itunes:summary>Puntata intera di lunedì 29 </itunes:summary>
     <description>Puntata di lunedì 29 novembre 2021</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>NOVEMBER_24_2021</guid>
-</item>
-<item>
-    <title>Puntata di martedì 23 novembre 2021 </title>
-    <itunes:summary>Puntata intera di martedì 23 </itunes:summary>
-    <description>Puntata di martedì 23 novembre 2021</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2021/11/23/mar_23112021_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Tue, 23 Nov 2021 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>NOVEMBER_23_2021</guid>
 </item>
 </channel>
 
