@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di martedì 22 marzo 2022 </title>
+    <itunes:summary>Puntata intera di martedì 22 </itunes:summary>
+    <description>Puntata di martedì 22 marzo 2022</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2022/3/22/mar_22032022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 22 Mar 2022 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>MARCH_22_2022</guid>
+</item>
+<item>
     <title>Puntata di lunedì 21 marzo 2022 </title>
     <itunes:summary>Puntata intera di lunedì 21 </itunes:summary>
     <description>Puntata di lunedì 21 marzo 2022</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>MARCH_16_2022</guid>
-</item>
-<item>
-    <title>Puntata di martedì 15 marzo 2022 </title>
-    <itunes:summary>Puntata intera di martedì 15 </itunes:summary>
-    <description>Puntata di martedì 15 marzo 2022</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2022/3/15/mar_15032022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Tue, 15 Mar 2022 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>MARCH_15_2022</guid>
 </item>
 </channel>
 
