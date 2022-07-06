@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di mercoledì 6 luglio 2022 </title>
+    <itunes:summary>Puntata intera di mercoledì 6 </itunes:summary>
+    <description>Puntata di mercoledì 6 luglio 2022</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2022/7/6/mer_06072022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 06 Jul 2022 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>JULY_6_2022</guid>
+</item>
+<item>
     <title>Puntata di martedì 5 luglio 2022 </title>
     <itunes:summary>Puntata intera di martedì 5 </itunes:summary>
     <description>Puntata di martedì 5 luglio 2022</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>JUNE_30_2022</guid>
-</item>
-<item>
-    <title>Puntata di mercoledì 29 giugno 2022 </title>
-    <itunes:summary>Puntata intera di mercoledì 29 </itunes:summary>
-    <description>Puntata di mercoledì 29 giugno 2022</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2022/6/29/mer_29062022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Wed, 29 Jun 2022 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>JUNE_29_2022</guid>
 </item>
 </channel>
 
