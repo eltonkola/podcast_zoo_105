@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di martedì 23 agosto 2022 </title>
+    <itunes:summary>Puntata intera di martedì 23 </itunes:summary>
+    <description>Puntata di martedì 23 agosto 2022</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2022/8/23/mar_23082022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 23 Aug 2022 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>AUGUST_23_2022</guid>
+</item>
+<item>
     <title>Puntata di lunedì 22 agosto 2022 </title>
     <itunes:summary>Puntata intera di lunedì 22 </itunes:summary>
     <description>Puntata di lunedì 22 agosto 2022</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>AUGUST_17_2022</guid>
-</item>
-<item>
-    <title>Puntata di martedì 16 agosto 2022 </title>
-    <itunes:summary>Puntata intera di martedì 16 </itunes:summary>
-    <description>Puntata di martedì 16 agosto 2022</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2022/8/16/mar_16082022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Tue, 16 Aug 2022 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>AUGUST_16_2022</guid>
 </item>
 </channel>
 
