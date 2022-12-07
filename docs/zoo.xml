@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di mercoledì 7 dicembre 2022 </title>
+    <itunes:summary>Puntata intera di mercoledì 7 </itunes:summary>
+    <description>Puntata di mercoledì 7 dicembre 2022</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2022/12/7/mer_07122022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 07 Dec 2022 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>DECEMBER_7_2022</guid>
+</item>
+<item>
     <title>Puntata di martedì 6 dicembre 2022 </title>
     <itunes:summary>Puntata intera di martedì 6 </itunes:summary>
     <description>Puntata di martedì 6 dicembre 2022</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>DECEMBER_1_2022</guid>
-</item>
-<item>
-    <title>Puntata di mercoledì 30 novembre 2022 </title>
-    <itunes:summary>Puntata intera di mercoledì 30 </itunes:summary>
-    <description>Puntata di mercoledì 30 novembre 2022</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2022/11/30/mer_30112022_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Wed, 30 Nov 2022 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>NOVEMBER_30_2022</guid>
 </item>
 </channel>
 
