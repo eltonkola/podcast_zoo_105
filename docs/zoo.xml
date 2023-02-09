@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di giovedì 9 febbraio 2023 </title>
+    <itunes:summary>Puntata intera di giovedì 9 </itunes:summary>
+    <description>Puntata di giovedì 9 febbraio 2023</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2023/2/9/gio_09022023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 09 Feb 2023 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>FEBRUARY_9_2023</guid>
+</item>
+<item>
     <title>Puntata di mercoledì 8 febbraio 2023 </title>
     <itunes:summary>Puntata intera di mercoledì 8 </itunes:summary>
     <description>Puntata di mercoledì 8 febbraio 2023</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>FEBRUARY_3_2023</guid>
-</item>
-<item>
-    <title>Puntata di giovedì 2 febbraio 2023 </title>
-    <itunes:summary>Puntata intera di giovedì 2 </itunes:summary>
-    <description>Puntata di giovedì 2 febbraio 2023</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2023/2/2/gio_02022023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Thu, 02 Feb 2023 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>FEBRUARY_2_2023</guid>
 </item>
 </channel>
 
