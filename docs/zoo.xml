@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di lunedì 27 febbraio 2023 </title>
+    <itunes:summary>Puntata intera di lunedì 27 </itunes:summary>
+    <description>Puntata di lunedì 27 febbraio 2023</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2023/2/27/lun_27022023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 27 Feb 2023 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>FEBRUARY_27_2023</guid>
+</item>
+<item>
     <title>Puntata di venerdì 24 febbraio 2023 </title>
     <itunes:summary>Puntata intera di venerdì 24 </itunes:summary>
     <description>Puntata di venerdì 24 febbraio 2023</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>FEBRUARY_21_2023</guid>
-</item>
-<item>
-    <title>Puntata di lunedì 20 febbraio 2023 </title>
-    <itunes:summary>Puntata intera di lunedì 20 </itunes:summary>
-    <description>Puntata di lunedì 20 febbraio 2023</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2023/2/20/lun_20022023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Mon, 20 Feb 2023 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>FEBRUARY_20_2023</guid>
 </item>
 </channel>
 
