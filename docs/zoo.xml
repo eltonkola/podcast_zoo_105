@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di venerdì 23 giugno 2023 </title>
+    <itunes:summary>Puntata intera di venerdì 23 </itunes:summary>
+    <description>Puntata di venerdì 23 giugno 2023</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2023/6/23/ven_23062023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 23 Jun 2023 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>JUNE_23_2023</guid>
+</item>
+<item>
     <title>Puntata di giovedì 22 giugno 2023 </title>
     <itunes:summary>Puntata intera di giovedì 22 </itunes:summary>
     <description>Puntata di giovedì 22 giugno 2023</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>JUNE_19_2023</guid>
-</item>
-<item>
-    <title>Puntata di venerdì 16 giugno 2023 </title>
-    <itunes:summary>Puntata intera di venerdì 16 </itunes:summary>
-    <description>Puntata di venerdì 16 giugno 2023</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2023/6/16/ven_16062023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Fri, 16 Jun 2023 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>JUNE_16_2023</guid>
 </item>
 </channel>
 
