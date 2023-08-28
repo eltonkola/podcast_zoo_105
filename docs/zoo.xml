@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di lunedì 28 agosto 2023 </title>
+    <itunes:summary>Puntata intera di lunedì 28 </itunes:summary>
+    <description>Puntata di lunedì 28 agosto 2023</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2023/8/28/lun_28082023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 28 Aug 2023 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>AUGUST_28_2023</guid>
+</item>
+<item>
     <title>Puntata di venerdì 25 agosto 2023 </title>
     <itunes:summary>Puntata intera di venerdì 25 </itunes:summary>
     <description>Puntata di venerdì 25 agosto 2023</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>AUGUST_22_2023</guid>
-</item>
-<item>
-    <title>Puntata di lunedì 21 agosto 2023 </title>
-    <itunes:summary>Puntata intera di lunedì 21 </itunes:summary>
-    <description>Puntata di lunedì 21 agosto 2023</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2023/8/21/lun_21082023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Mon, 21 Aug 2023 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>AUGUST_21_2023</guid>
 </item>
 </channel>
 
