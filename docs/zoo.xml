@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di mercoledì 13 dicembre 2023 </title>
+    <itunes:summary>Puntata intera di mercoledì 13 </itunes:summary>
+    <description>Puntata di mercoledì 13 dicembre 2023</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2023/12/13/mer_13122023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 13 Dec 2023 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>DECEMBER_13_2023</guid>
+</item>
+<item>
     <title>Puntata di martedì 12 dicembre 2023 </title>
     <itunes:summary>Puntata intera di martedì 12 </itunes:summary>
     <description>Puntata di martedì 12 dicembre 2023</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>DECEMBER_7_2023</guid>
-</item>
-<item>
-    <title>Puntata di mercoledì 6 dicembre 2023 </title>
-    <itunes:summary>Puntata intera di mercoledì 6 </itunes:summary>
-    <description>Puntata di mercoledì 6 dicembre 2023</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2023/12/6/mer_06122023_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Wed, 06 Dec 2023 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>DECEMBER_6_2023</guid>
 </item>
 </channel>
 
