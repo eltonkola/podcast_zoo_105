@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di venerdì 2 agosto 2024 </title>
+    <itunes:summary>Puntata intera di venerdì 2 </itunes:summary>
+    <description>Puntata di venerdì 2 agosto 2024</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2024/8/2/ven_02082024_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 02 Aug 2024 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>AUGUST_2_2024</guid>
+</item>
+<item>
     <title>Puntata di giovedì 1 agosto 2024 </title>
     <itunes:summary>Puntata intera di giovedì 1 </itunes:summary>
     <description>Puntata di giovedì 1 agosto 2024</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>JULY_29_2024</guid>
-</item>
-<item>
-    <title>Puntata di venerdì 26 luglio 2024 </title>
-    <itunes:summary>Puntata intera di venerdì 26 </itunes:summary>
-    <description>Puntata di venerdì 26 luglio 2024</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2024/7/26/ven_26072024_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Fri, 26 Jul 2024 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>JULY_26_2024</guid>
 </item>
 </channel>
 
