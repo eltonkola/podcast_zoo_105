@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di giovedì 28 novembre 2024 </title>
+    <itunes:summary>Puntata intera di giovedì 28 </itunes:summary>
+    <description>Puntata di giovedì 28 novembre 2024</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2024/11/28/gio_28112024_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 28 Nov 2024 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>NOVEMBER_28_2024</guid>
+</item>
+<item>
     <title>Puntata di mercoledì 27 novembre 2024 </title>
     <itunes:summary>Puntata intera di mercoledì 27 </itunes:summary>
     <description>Puntata di mercoledì 27 novembre 2024</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>NOVEMBER_22_2024</guid>
-</item>
-<item>
-    <title>Puntata di giovedì 21 novembre 2024 </title>
-    <itunes:summary>Puntata intera di giovedì 21 </itunes:summary>
-    <description>Puntata di giovedì 21 novembre 2024</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2024/11/21/gio_21112024_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Thu, 21 Nov 2024 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>NOVEMBER_21_2024</guid>
 </item>
 </channel>
 
