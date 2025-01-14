@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di martedì 14 gennaio 2025 </title>
+    <itunes:summary>Puntata intera di martedì 14 </itunes:summary>
+    <description>Puntata di martedì 14 gennaio 2025</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2025/1/14/mar_14012025_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 14 Jan 2025 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>JANUARY_14_2025</guid>
+</item>
+<item>
     <title>Puntata di lunedì 13 gennaio 2025 </title>
     <itunes:summary>Puntata intera di lunedì 13 </itunes:summary>
     <description>Puntata di lunedì 13 gennaio 2025</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>JANUARY_8_2025</guid>
-</item>
-<item>
-    <title>Puntata di martedì 7 gennaio 2025 </title>
-    <itunes:summary>Puntata intera di martedì 7 </itunes:summary>
-    <description>Puntata di martedì 7 gennaio 2025</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2025/1/7/mar_07012025_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Tue, 07 Jan 2025 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>JANUARY_7_2025</guid>
 </item>
 </channel>
 
