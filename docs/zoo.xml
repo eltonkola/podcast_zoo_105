@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di mercoledì 16 aprile 2025 </title>
+    <itunes:summary>Puntata intera di mercoledì 16 </itunes:summary>
+    <description>Puntata di mercoledì 16 aprile 2025</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2025/4/16/mer_16042025_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 16 Apr 2025 16:00:00 +0200</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>APRIL_16_2025</guid>
+</item>
+<item>
     <title>Puntata di martedì 15 aprile 2025 </title>
     <itunes:summary>Puntata intera di martedì 15 </itunes:summary>
     <description>Puntata di martedì 15 aprile 2025</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>APRIL_10_2025</guid>
-</item>
-<item>
-    <title>Puntata di mercoledì 9 aprile 2025 </title>
-    <itunes:summary>Puntata intera di mercoledì 9 </itunes:summary>
-    <description>Puntata di mercoledì 9 aprile 2025</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2025/4/9/mer_09042025_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Wed, 09 Apr 2025 16:00:00 +0200</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>APRIL_9_2025</guid>
 </item>
 </channel>
 
