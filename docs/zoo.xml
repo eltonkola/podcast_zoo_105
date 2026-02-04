@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di mercoledì 4 febbraio 2026 </title>
+    <itunes:summary>Puntata intera di mercoledì 4 </itunes:summary>
+    <description>Puntata di mercoledì 4 febbraio 2026</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2026/2/4/mer_04022026_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 04 Feb 2026 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>FEBRUARY_4_2026</guid>
+</item>
+<item>
     <title>Puntata di martedì 3 febbraio 2026 </title>
     <itunes:summary>Puntata intera di martedì 3 </itunes:summary>
     <description>Puntata di martedì 3 febbraio 2026</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>JANUARY_29_2026</guid>
-</item>
-<item>
-    <title>Puntata di mercoledì 28 gennaio 2026 </title>
-    <itunes:summary>Puntata intera di mercoledì 28 </itunes:summary>
-    <description>Puntata di mercoledì 28 gennaio 2026</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2026/1/28/mer_28012026_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Wed, 28 Jan 2026 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>JANUARY_28_2026</guid>
 </item>
 </channel>
 
