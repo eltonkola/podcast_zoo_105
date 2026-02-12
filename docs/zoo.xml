@@ -16,6 +16,18 @@
 <itunes:image href="https://eltonkola.github.io/podcast_zoo_105/zoo_cover.jpg" />
 <itunes:category text="Comedy"></itunes:category>
 <item>
+    <title>Puntata di giovedì 12 febbraio 2026 </title>
+    <itunes:summary>Puntata intera di giovedì 12 </itunes:summary>
+    <description>Puntata di giovedì 12 febbraio 2026</description>
+    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
+    <enclosure url="https://podcast.mediaset.net/repliche//2026/2/12/gio_12022026_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 12 Feb 2026 16:00:00 +0100</pubDate>
+    <itunes:author>Zoo di 105</itunes:author>
+    <itunes:duration>01:30:00</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>FEBRUARY_12_2026</guid>
+</item>
+<item>
     <title>Puntata di mercoledì 11 febbraio 2026 </title>
     <itunes:summary>Puntata intera di mercoledì 11 </itunes:summary>
     <description>Puntata di mercoledì 11 febbraio 2026</description>
@@ -62,18 +74,6 @@
     <itunes:duration>01:30:00</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>FEBRUARY_6_2026</guid>
-</item>
-<item>
-    <title>Puntata di giovedì 5 febbraio 2026 </title>
-    <itunes:summary>Puntata intera di giovedì 5 </itunes:summary>
-    <description>Puntata di giovedì 5 febbraio 2026</description>
-    <link>https://eltonkola.github.io/podcast_zoo_105/</link>
-    <enclosure url="https://podcast.mediaset.net/repliche//2026/2/5/gio_05022026_zoo.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Thu, 05 Feb 2026 16:00:00 +0100</pubDate>
-    <itunes:author>Zoo di 105</itunes:author>
-    <itunes:duration>01:30:00</itunes:duration>
-    <itunes:explicit>yes</itunes:explicit>
-    <guid>FEBRUARY_5_2026</guid>
 </item>
 </channel>
 
